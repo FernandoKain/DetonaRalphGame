@@ -1,0 +1,8 @@
+/* Esse bloco específico é para resetar todas as configurações de cada browser e utilizarmos a fonte específica do nosso game. */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Bebas Neue", sans-serif; */
+    font-family: "Press Start 2P", cursive;
+}
